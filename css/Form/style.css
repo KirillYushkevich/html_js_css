@@ -1,0 +1,68 @@
+p{
+	font-size:14px;
+	text-align: top;
+}
+li{
+	list-style-type: none;
+	text-align: left;
+}
+div{
+	
+	padding: 10px;
+	background-color: #cbd7ed;
+	width: 410px;
+	height: 365px;
+}
+form{
+	border: 1px groove black;
+	padding-bottom:30px;
+	padding-top:5px;
+	padding-left:5px;
+	padding-right:0px;
+	width: 400px;
+	margin: 0 0;	
+}
+hr{
+	border: 1px dashed #c0c0c0;
+	margin-left:20px;
+	margin-right: 50px;
+	margin-bottom:0px;
+	margin-top:3px;
+}
+label{
+	font-size:13px;
+	padding-top: 10px;
+	padding-left: 20px;
+	width: 300px;
+	display: inline-block;
+	text-align: left;
+}
+input[type="text"]{
+	width:150px;
+}
+input[type="button"]{
+	margin-left: 130px;
+	margin-top: 10px;
+}
+.countries{
+	width:150px;
+	font-size: 12px;
+}
+.mail{
+	margin-left: 63px;
+}
+.login{
+	margin-left: 65px;
+}
+.password{
+	margin-left: 60px;
+}
+.sex{
+	margin-left: 80px;
+}
+.name{
+	margin-left: 18px;
+}
+.year{
+	margin-left: 19px;
+}
